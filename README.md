@@ -1,6 +1,6 @@
 # Semantic-Clustering-and-Localization
 
-The below,  the steps are presented that we followed to implement our method are presented and analyzed.
+Below, the steps are presented that we followed to implement our method are presented and analyzed.
 
 1) Extract and save the histogramms descriptors from the code ''Histogramms_Descriptors_for_images.m'' as well as store the file 'simVectorSeq.txt'
 2) Run the ''c_Louvain.c'' archive that is the Louvain implementation, extracting the archive ''simVectorSeqout.txt'' used in ''SEMANTIC_MAPS.m''
