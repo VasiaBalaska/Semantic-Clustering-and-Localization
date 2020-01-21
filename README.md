@@ -14,4 +14,8 @@ The vocabulary tree which is used, is the ''vocabulary_tree.mat'' (download this
 
 
 
+Note that we are in the process of integrating our algorithm into one matlab script.
+For further information, contact us: vbalaska@pme.duth.gr
+
+
 
